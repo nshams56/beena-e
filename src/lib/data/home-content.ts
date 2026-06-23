@@ -64,7 +64,7 @@ export const aboutHomeCopy = {
 };
 
 export const footerContact = {
-  phone: "+1 (925) 555-0199",
+  phone: "+1 (707) 812-3866",
   email: "info@beena-e.com",
   address: "Danville, CA, United States",
 };
