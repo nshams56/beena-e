@@ -1,0 +1,8 @@
+# Build output from build_app.sh
+dist/
+build/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
